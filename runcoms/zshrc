@@ -14,15 +14,15 @@ fi
 
 DEFAULT_USER=luis
 
-export CLICOLOR=1
-export LSCOLORS=ExFxCxDxBxegedabagacad
+#export CLICOLOR=1
+#export LSCOLORS=ExFxCxDxBxegedabagacad
 
-export PATH=/usr/local/bin:$PATH:~/Software/bin
-export PATH="$PATH:~/Software/android-sdk/tools:~/Software/android-sdk/platform-tools"
+#export PATH=/usr/local/bin:$PATH:~/Software/bin
+#export PATH="$PATH:~/Software/android-sdk/tools:~/Software/android-sdk/platform-tools"
 
-alias e=/Applications/Emacs.app/Contents/MacOS/bin/emacsclient
+#alias e=/Applications/Emacs.app/Contents/MacOS/bin/emacsclient
 
 #export PATH="/Users/luis/Software/narwhal/bin:$PATH"
-export PATH="/Users/luis/.cabal/bin:$PATH"
+#export PATH="/Users/luis/.cabal/bin:$PATH"
 
 #CIM_HOME=/Users/luis/.cim; [ -s '/Users/luis/.cim/init.sh' ] && . '/Users/luis/.cim/init.sh'
